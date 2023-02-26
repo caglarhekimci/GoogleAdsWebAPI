@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gitV7KeQnA1nj9SuQzkOC9zpOdoaUcoVwtygKjD4Q4ojj5vW9DIGoawY/K8Mx0O9C+YJ7Gbk8XX7p8d56fYbEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caglarh\\OneDrive - Redmill Solutions\\Desktop\\GoogleAdsAPI\\Digital.Domain\\Digital.Domain.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caglarh\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

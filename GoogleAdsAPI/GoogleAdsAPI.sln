@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleAdsAPI", "GoogleAdsAPI\GoogleAdsAPI.csproj", "{6FBB6319-FD0F-453C-9D45-0059CD2992A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{1CC0B01A-DAE8-4370-935E-B6C97128745B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.Domain.Model", "Digital.Domain\Digital.Domain.Model.csproj", "{0100C578-9F0C-4216-A2C5-5C5710DBC41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBB6319-FD0F-453C-9D45-0059CD2992A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBB6319-FD0F-453C-9D45-0059CD2992A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBB6319-FD0F-453C-9D45-0059CD2992A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBB6319-FD0F-453C-9D45-0059CD2992A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0100C578-9F0C-4216-A2C5-5C5710DBC41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0100C578-9F0C-4216-A2C5-5C5710DBC41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0100C578-9F0C-4216-A2C5-5C5710DBC41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0100C578-9F0C-4216-A2C5-5C5710DBC41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0100C578-9F0C-4216-A2C5-5C5710DBC41B} = {1CC0B01A-DAE8-4370-935E-B6C97128745B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F0CFDB-1E5A-4DCD-8D4C-D55BEE4E443E}
+	EndGlobalSection
+EndGlobal
